@@ -4,7 +4,7 @@
   "description": "Bootstrap basic documentation files for your open source projects.",
   "main": "lib/init.js",
   "scripts": {
-    "test": "tap /*.spec.js"
+    "test": "tap ./**/*.spec.js"
   },
   "repository": {
     "type": "git",
